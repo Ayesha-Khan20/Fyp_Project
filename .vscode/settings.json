@@ -1,0 +1,5 @@
+{
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.autoImportCompletions": false,
+    "cmake.sourceDirectory": "C:/Flutter/Development/projects/mental_health_app/build/windows/x64/extracted/firebase_cpp_sdk_windows"
+}
